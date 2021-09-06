@@ -3,7 +3,14 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lucaslaurodonato)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/lucaslaurodonato/)
 
-My name is Lucas Lauro Donato and I'm a mobile development if you know more about can visit my social media, if you wanna play games with me add on Playstation Network: <b>Lukaslauro</b> :video_game:
+My name is Lucas Lauro Donato and I'm a mobile development if you know more about visit my social media, if you wanna play games with me add on Playstation Network :video_game:: <code>Lukaslauro</code> 
+
+### **Talking about Personal Stuffs:**
+
+- 👨🏻‍💻 I’m currently working on something cool;
+- 🚀 I’m currently learning more about Kotlin;
+- 💬 Ask me about anything, I am happy to help if I can of course;
+- 📫 How to reach me: add on <a href="https://linkedin.com/in/lucaslaurodonato" rel="nofollow"> Linkedin :heart: </a>;
 
 
 
