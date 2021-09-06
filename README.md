@@ -10,8 +10,7 @@ My name is Lucas Lauro Donato and I'm a mobile development if you know more abou
 - 👨🏻‍💻 I’m currently working on something cool;
 - 🚀 I’m currently learning more about Kotlin;
 - 💬 Ask me about anything, I am happy to help if I can of course;
-- 📫 How to reach me: add on <a href="https://linkedin.com/in/lucaslaurodonato" rel="nofollow"> Linkedin :heart: </a>;
-
+- 📫 How to reach me: add on <a href="https://linkedin.com/in/lucaslaurodonato" rel="nofollow"> Linkedin :heart:</a>;
 
 
 ### **<h2>My status 'til moment :rocket:</h2>**
