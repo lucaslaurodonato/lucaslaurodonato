@@ -1,6 +1,11 @@
-### **<h2>Hello, folks! 👋</h2>**
+### **<h1>Hello folks, I'm Lucas Donato<img src="https://media.giphy.com/media/jY1r8EHyk4Ye9KUOUb/giphy.gif?cid=790b7611ryot06xlsakcou593lsuf34iywrbiq89x7qpsru1&rid=giphy.gif&ct=s" width="45px"> </h1>**
 
-My name is Lucas Lauro Donato and I'm a mobile development if you know more about can visit my <a href="https://www.linkedin.com/in/lucaslaurodonato/" rel="nofollow"> Linkedin</a> or on  <a href="https://www.instagram.com/lucaslaurodonato/" rel="nofollow"> Instagram</a>, if you wanna play games with me add on Playstation Network: <b>Lukaslauro</b> :video_game: 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lucaslaurodonato)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/lucaslaurodonato/)
+
+My name is Lucas Lauro Donato and I'm a mobile development if you know more about can visit my social media, if you wanna play games with me add on Playstation Network: <b>Lukaslauro</b> :video_game:
+
+
 
 ### **<h2>My status 'til moment :rocket:</h2>**
   
