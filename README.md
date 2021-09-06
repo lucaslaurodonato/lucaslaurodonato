@@ -1,4 +1,5 @@
-### **<h1>Hello everone, I'm Lucas Donato<img src="https://media.giphy.com/media/jY1r8EHyk4Ye9KUOUb/giphy.gif?cid=790b7611ryot06xlsakcou593lsuf34iywrbiq89x7qpsru1&rid=giphy.gif&ct=s" width="45px"> </h1>**
+### **<h1>Hi folks, I'm Lucas Donato <img src="https://media.giphy.com/media/jY1r8EHyk4Ye9KUOUb/giphy.gif?cid=790b7611ryot06xlsakcou593lsuf34iywrbiq89x7qpsru1&rid=giphy.gif&ct=s" width="45px"></h1>**
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lucaslaurodonato)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/lucaslaurodonato/)
