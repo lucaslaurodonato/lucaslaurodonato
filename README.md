@@ -6,6 +6,9 @@
 
 My name is Lucas Lauro Donato and I'm a mobile development if you know more about visit my social media, if you wanna play games with me add on Playstation Network :video_game:: <code>Lukaslauro</code> 
 
+<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/47648982/132248340-cd2180d8-6dfe-4331-830a-ccee24e79575.png"><img src="https://user-images.githubusercontent.com/47648982/132248340-cd2180d8-6dfe-4331-830a-ccee24e79575.png" align="right" width="20%" style="max-width:100%;"></a></p>
+
+
 ### **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
