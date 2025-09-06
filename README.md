@@ -2,7 +2,6 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lucaslaurodonato)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/lucaslaurodonato/)
 
 My name is Lucas Lauro Donato and I'm a mobile development if you know more about visit my social media, if you wanna play games with me add on Playstation Network :video_game:: <code>Lukaslauro</code> 
 
