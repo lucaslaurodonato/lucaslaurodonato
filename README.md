@@ -3,8 +3,13 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lucaslaurodonato)
 
-My name is Lucas Lauro Donato and I'm a mobile development if you know more about visit my social media, if you wanna play games with me add on Playstation Network :video_game:: <code>Lukaslauro</code> 
+# Hey there! I'm Lucas Donato 👋
 
+I'm a software developer with a passion for building cool projects and solving interesting problems.
+
+🚀 I'm always looking to learn and grow, and I love collaborating with other developers.
+
+Let's connect!
 
 ### **Talking about Personal Stuffs:**
 
