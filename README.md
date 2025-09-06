@@ -15,11 +15,6 @@ My name is Lucas Lauro Donato and I'm a mobile development if you know more abou
 
 
 ### **<h2>My status 'til moment :rocket:</h2>**
-  
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslaurodonato&show_icons=true&theme=highcontrast)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslaurodonato&layout=compact&theme=highcontrast)](https://github.com/lucaslaurodonato/github-readme-stats)
 
 <img src="https://img.shields.io/badge/Android-Development-green"></img> 
 <img src="https://img.shields.io/badge/Kotlin-Development-blueviolet"/>
